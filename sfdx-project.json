@@ -7,12 +7,12 @@
             "versionName": "ver 1.0",
             "versionNumber": "1.0.0.NEXT"
         },
-        {
-            "path": "force-app",
+   {
+            "path": "force-app-2",
             "package": "th-dreamhouse",
-            "versionName": "ver 1.0",
-            "versionNumber": "1.0.0.NEXT",
-            "default": false
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": true
         }
     ],
     "namespace": "",
