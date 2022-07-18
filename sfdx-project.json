@@ -1,9 +1,9 @@
 {
     "packageDirectories": [
         {
-            "path": "force-app",
+            "path": "force-app-2",
             "default": true,
-            "package": "dreamhouse",
+            "package": "th-dreamhouse",
             "versionName": "ver 1.0",
             "versionNumber": "1.0.0.NEXT"
         },
